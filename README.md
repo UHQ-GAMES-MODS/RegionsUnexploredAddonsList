@@ -22,10 +22,10 @@ If you have an add-on, and you want it on the list, you can make a PR and follow
 
 <img alt="" src="assets/<addon>.png"> # optional is not required, but make sure to add a picture for this to work :3 
 
-- compatible: <version compatible>
-- incompatible: <version incompatible>
+- compatible: <regions unexplored version compatible>
+- incompatible: <regions unexplored version incompatible>
 
-you can add these banners to your addon
+# you can add these banners to your add-on but that's not required
 <a href="<link to cf page>" ><img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"></a>
 <a href="<link to mr page>"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
 ```
