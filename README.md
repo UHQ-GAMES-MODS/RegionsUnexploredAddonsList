@@ -16,7 +16,7 @@ This is a simple repo to list and provide users direction to add-ons to use with
 
 ## Contribution
 
-If you have an add-on, and you want it on the list, you can make a PR and follow the build order
+If you have an add-on, and you want it on the list, you can fork this, add changes of your add-on and make a PR! <br> Though make sure to follow the order of how it's structured. See example below: 
 ```markdown
 ## Add-on Name
 
@@ -25,7 +25,7 @@ If you have an add-on, and you want it on the list, you can make a PR and follow
 - compatible: <regions unexplored version compatible>
 - incompatible: <regions unexplored version incompatible>
 
-# you can add these banners to your add-on but that's not required
+// you can add these banners to your add-on but that's not required
 <a href="<link to cf page>" ><img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"></a>
 <a href="<link to mr page>"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
 ```
